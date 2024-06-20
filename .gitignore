@@ -130,5 +130,10 @@ dmypy.json
 
 data
 data/
-src/*
+#src/*
 src/metrics/
+src/logs/
+*.keras
+*.h5
+src/*.keras
+src/*.h5
